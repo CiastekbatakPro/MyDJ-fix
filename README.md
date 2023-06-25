@@ -23,7 +23,7 @@ After :
 ![image](https://github.com/CiastekbatakPro/MyDJ-fix/assets/73557171/25d152db-4447-4e65-b78e-224e483e7ecc)
 
 # Credits 
-**Code was bringed to you by** [Fiveguard](https://fiveguard.net/)
+**This code was brought to you by** [Fiveguard](https://fiveguard.net/)
 
 **to help you protect your server against hackers.**
 
